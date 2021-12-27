@@ -47,9 +47,9 @@ This is the serial input/output connector. Goes to your RS232 adapter.
 This is the air strings connector 
 
 - 1 RED: to arduino +5V.
-- 2~7 stripped grey: to the other tower pins 2~7.
-- 8~10 stripped white: to the arduino gpio 8 9 10 (left tower) or 11 12 13 (right tower).
-- 11~12 black: to arduino GND.
+- 2 to 7 stripped grey: to the other tower pins 2 to 7.
+- 8 to 10 stripped white: to the arduino gpio 8 9 10 (left tower) or 11 12 13 (right tower).
+- 11 12 black: to arduino GND.
 - 15 green: Can be left disconnected.
 
 ### YLP-06V (connects into an YLR-06V)
