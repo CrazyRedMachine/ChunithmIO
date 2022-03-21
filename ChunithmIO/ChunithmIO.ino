@@ -2,7 +2,7 @@
 #include <FastLED.h>
 #define LEFT_PIN      5
 #define RIGHT_PIN     6
-#define NUM_LEDS    9
+#define NUM_LEDS    3
 
 CRGB left_leds[NUM_LEDS];
 CRGB right_leds[NUM_LEDS];
